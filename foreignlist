@@ -135,6 +135,7 @@ DOMAIN-SUFFIX,pastebin.com
 DOMAIN-SUFFIX,pandora.com
 DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,phncdn.com
 ## R
 DOMAIN-SUFFIX,rsf.org
 DOMAIN-SUFFIX,reuters.com
@@ -298,3 +299,4 @@ DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,1e100.net
 DOMAIN-SUFFIX,2mdn.net
+##
