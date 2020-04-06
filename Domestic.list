@@ -1,3 +1,4 @@
+DOMAIN-KEYWORD,-cn
 DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
@@ -16,9 +17,6 @@ DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,alicdn.com
-DOMAIN-SUFFIX,alipay.com
-DOMAIN-SUFFIX,alipayobjects.com
 DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,analytics.126.net
@@ -32,8 +30,6 @@ DOMAIN-SUFFIX,battle.net
 DOMAIN-SUFFIX,bdimg.com
 DOMAIN-SUFFIX,bdstatic.com
 DOMAIN-SUFFIX,beatsbydre.com
-DOMAIN-SUFFIX,bilibili.cn
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,caiyunapp.com
 DOMAIN-SUFFIX,ccgslb.com
@@ -81,7 +77,6 @@ DOMAIN-SUFFIX,hollisterco.com
 DOMAIN-SUFFIX,hongxiu.com
 DOMAIN-SUFFIX,hxcdn.net
 DOMAIN-SUFFIX,iciba.com
-DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
 DOMAIN-SUFFIX,images-amazon.com
@@ -102,7 +97,6 @@ DOMAIN-SUFFIX,lecloud.com
 DOMAIN-SUFFIX,lemicp.com
 DOMAIN-SUFFIX,letv.com
 DOMAIN-SUFFIX,letvcloud.com
-DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,lizhi.io
 DOMAIN-SUFFIX,localizecdn.com
 DOMAIN-SUFFIX,lucifr.com
@@ -113,7 +107,6 @@ DOMAIN-SUFFIX,maven.org
 DOMAIN-SUFFIX,meizu.com
 DOMAIN-SUFFIX,mi.com
 DOMAIN-SUFFIX,miaopai.com
-DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com
@@ -123,12 +116,9 @@ DOMAIN-SUFFIX,mxhichina.com
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN-SUFFIX,myunlu.com
 DOMAIN-SUFFIX,netease.com
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,nuomi.com
 DOMAIN-SUFFIX,ourdvs.com
-DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,overcast.fm
-DOMAIN-SUFFIX,paypal.com
 DOMAIN-SUFFIX,pgyer.com
 DOMAIN-SUFFIX,pixiv.net
 DOMAIN-SUFFIX,pstatp.com
@@ -163,10 +153,8 @@ DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
 DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,soso.com
-DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,startssl.com
-DOMAIN-SUFFIX,store.steampowered.com
 DOMAIN-SUFFIX,suning.com
 DOMAIN-SUFFIX,symcd.com
 DOMAIN-SUFFIX,taobao.com
@@ -223,4 +211,3 @@ DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
 IP-CIDR,1.255.62.0/24,no-resolve
-DOMAIN-SUFFIX,cn
