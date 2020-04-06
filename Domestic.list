@@ -222,3 +222,5 @@ DOMAIN-SUFFIX,zgslb.net
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zimuzu.tv
+IP-CIDR,1.255.62.0/24,no-resolve
+DOMAIN-SUFFIX,cn
