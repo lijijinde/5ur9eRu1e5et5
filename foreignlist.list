@@ -96,6 +96,7 @@ DOMAIN-SUFFIX,disqus.com
 DOMAIN-SUFFIX,disquscdn.com
 DOMAIN-SUFFIX,dcmilitary.com
 DOMAIN-SUFFIX,digitaltrends.com
+DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,dnsimple.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,dribbble.com
@@ -165,11 +166,6 @@ DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,githubapp.com
-DOMAIN-SUFFIX,githubassets.com
-DOMAIN-SUFFIX,githubusercontent.com
-DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,gstatic.com
