@@ -1,6 +1,6 @@
-DOMAIN-SUFFIX,git.io,force-remote-dns
-DOMAIN-SUFFIX,github.io,force-remote-dns
-DOMAIN-SUFFIX,github.com,force-remote-dns
-DOMAIN-SUFFIX,githubapp.com,force-remote-dns
-DOMAIN-SUFFIX,githubassets.com,force-remote-dns
-DOMAIN-SUFFIX,githubusercontent.com,force-remote-dns
+DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubapp.com
+DOMAIN-SUFFIX,githubassets.com
+DOMAIN-SUFFIX,githubusercontent.com
