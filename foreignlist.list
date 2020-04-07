@@ -151,6 +151,7 @@ DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getfoxyproxy.org
 DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,go.com
+DOMAIN-SUFFIX,g.cn
 DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,golang.org
@@ -168,10 +169,21 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com
 DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,gmail,force-remote-dns
+DOMAIN-SUFFIX,goolge.com,force-remote-dns
+DOMAIN-SUFFIX,google.com,force-remote-dns
+DOMAIN-SUFFIX,gooogle.com,force-remote-dns
+DOMAIN-SUFFIX,googleusercontent.com,force-remote-dns
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,googleapis.com,force-remote-dns
+DOMAIN-SUFFIX,googleapps.com,force-remote-dns
+DOMAIN-SUFFIX,googledrive.com,force-remote-dns
+DOMAIN-SUFFIX,googlearth.com,force-remote-dns
+DOMAIN-SUFFIX,googlemail.com,force-remote-dns
+DOMAIN-SUFFIX,googlemaps.com,force-remote-dns
+DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 ## H
 DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -183,6 +195,7 @@ DOMAIN-SUFFIX,kobobooks.com
 ## I
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,icons8.com
+DOMAIN-SUFFIX,igoogle.com,force-remote-dns
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,imgur.com
@@ -468,6 +481,7 @@ DOMAIN-SUFFIX,vox-cdn.com
 DOMAIN-SUFFIX,vsco.co
 DOMAIN-SUFFIX,vultr.com
 ## W
+DOMAIN-SUFFIX,waze.com
 DOMAIN-SUFFIX,wwitv.com
 DOMAIN-SUFFIX,wsj.com
 DOMAIN-SUFFIX,wsj.net
@@ -485,6 +499,8 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
+DOMAIN-SUFFIX,withgoogle.com,whatsapp,force-remote-dns
+DOMAIN-SUFFIX,withyoutube.com,whatsapp,force-remote-dns
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,westpoint.edu
 DOMAIN-SUFFIX,westca.com
@@ -515,13 +531,17 @@ DOMAIN-SUFFIX,yourlisten.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,yorkbbs.ca
 DOMAIN-SUFFIX,youtu.be,force-remote-dns
-DOMAIN-KEYWORD,youtube,force-remote-dns
+DOMAIN-SUFFIX,youtube.com,force-remote-dns
+DOMAIN-SUFFIX,youtubeeducation.com,force-remote-dns
+DOMAIN-SUFFIX,youtubegaming.com,force-remote-dns
+DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 DOMAIN-SUFFIX,onlineyoutube.com
 DOMAIN-SUFFIX,yidio.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
-DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ytimg.com,force-remote-dns
+DOMAIN-SUFFIX,yt.be,force-remote-dns
 DOMAIN-SUFFIX,yes-news.com
 DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yeeyi.com
@@ -538,3 +558,4 @@ DOMAIN-SUFFIX,2mdn.net
 DOMAIN-SUFFIX,4everproxy.com
 DOMAIN-SUFFIX,4shared.com
 DOMAIN-SUFFIX,9to5mac.com
+DOMAIN-SUFFIX,9to5google.com
