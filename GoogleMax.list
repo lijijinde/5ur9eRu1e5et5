@@ -18,7 +18,7 @@ DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,firebaseio.com
-#DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org,force-remote-dns
 DOMAIN-SUFFIX,ggpht.com
