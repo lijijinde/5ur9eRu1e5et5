@@ -20,6 +20,8 @@ DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN-SUFFIX,firebaseio.com
 #DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,g.cn
+DOMAIN-SUFFIX,g.co,force-remote-dns
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org,force-remote-dns
 DOMAIN-SUFFIX,ggpht.com
@@ -27,6 +29,7 @@ DOMAIN-SUFFIX,gmail.com,,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,googleapis.com,force-remote-dns
 DOMAIN-SUFFIX,googleapps.com,force-remote-dns
 DOMAIN-SUFFIX,googledrive.com,force-remote-dns
