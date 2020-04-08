@@ -1,5 +1,6 @@
-DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,blogspot,force-remote-dns
+#DOMAIN-KEYWORD,gmail,force-remote-dns
+#DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,android.com
