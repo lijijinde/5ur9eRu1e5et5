@@ -128,7 +128,6 @@ DOMAIN-SUFFIX,sdkconfig.video.qq.com
 DOMAIN-SUFFIX,iacc.qq.com
 DOMAIN-SUFFIX,news.l.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
-
 ## 360
 DOMAIN-SUFFIX,3600.com
 DOMAIN-SUFFIX,adapi.shouji.360.cn
@@ -158,7 +157,6 @@ DOMAIN-SUFFIX,prom.gome.com.cn
 DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
-## Keywords
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
 DOMAIN-KEYWORD,adsage
