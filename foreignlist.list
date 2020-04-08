@@ -10,7 +10,6 @@ DOMAIN-SUFFIX,amazonaws.com,force-remote-dns
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,ampproject.org
 DOMAIN-SUFFIX,ancsconf.org
-DOMAIN-SUFFIX,android.com
 DOMAIN-SUFFIX,android-x86.org
 DOMAIN-SUFFIX,anthonycalzadilla.com
 DOMAIN-SUFFIX,angularjs.org
@@ -25,13 +24,11 @@ DOMAIN-SUFFIX,apkfind.com
 DOMAIN-SUFFIX,apkpure.com
 DOMAIN-SUFFIX,apkleecher.com
 DOMAIN-SUFFIX,apigee.com
-DOMAIN-SUFFIX,appspot.com
 DOMAIN-SUFFIX,arcgis.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,armorgames.com
 DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,att.com
-DOMAIN-SUFFIX,autodraw.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
@@ -57,7 +54,6 @@ DOMAIN-SUFFIX,blogblog.com
 DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
-DOMAIN-SUFFIX,blogger.com
 DOMAIN-SUFFIX,blogsmithmedia.com
 DOMAIN-SUFFIX,blogspot.com,force-remote-dns
 DOMAIN-SUFFIX,blogspot.hk
@@ -65,10 +61,8 @@ DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 ## C
 DOMAIN-SUFFIX,cachefly.net
-DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,cbc.ca
 DOMAIN-SUFFIX,cccat.cc
-DOMAIN-SUFFIX,chromeexperiments.com
 DOMAIN-SUFFIX,cl.ly
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudmagic.com
@@ -77,7 +71,6 @@ DOMAIN-SUFFIX,cnn.com
 DOMAIN-SUFFIX,cnet.com
 DOMAIN-SUFFIX,cocoapods.org
 DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,creativelab5.com
 DOMAIN-SUFFIX,crittercism.com
 DOMAIN-SUFFIX,culturalspot.org
 DOMAIN-SUFFIX,culturedcode.com
@@ -134,7 +127,6 @@ DOMAIN-SUFFIX,feedly.com
 DOMAIN-SUFFIX,feedsportal.com
 DOMAIN-SUFFIX,freeopenproxy.com
 DOMAIN-SUFFIX,fiftythree.com
-DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,flexibits.com
 DOMAIN-SUFFIX,flickr.com
 DOMAIN-SUFFIX,flipboard.com
@@ -150,41 +142,17 @@ DOMAIN-SUFFIX,gunsamerica.com
 DOMAIN-SUFFIX,gravatar.com
 DOMAIN-SUFFIX,getlantern.org
 DOMAIN-SUFFIX,getfoxyproxy.org
-DOMAIN-SUFFIX,g.co
 DOMAIN-SUFFIX,go.com
-DOMAIN-SUFFIX,g.cn
-DOMAIN-SUFFIX,go.jp
 DOMAIN-SUFFIX,godaddy.com
-DOMAIN-SUFFIX,golang.org
 DOMAIN-SUFFIX,gongm.in
-DOMAIN-SUFFIX,goo.gl
-DOMAIN-SUFFIX,goodreaders.com
+DOMAIN-SUFFIX,goodreaders.com,force-remote-dns
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,gfw.press
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,gosetsuden.jp
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gwtproject.org
 DOMAIN-SUFFIX,gfx.ms
-DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,ghostnoteapp.com
-DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,gravatar.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-KEYWORD,google,force-remote-dns
-DOMAIN-KEYWORD,gmail,force-remote-dns
-DOMAIN-SUFFIX,goolge.com,force-remote-dns
-DOMAIN-SUFFIX,google.com,force-remote-dns
-DOMAIN-SUFFIX,gooogle.com,force-remote-dns
-DOMAIN-SUFFIX,googleusercontent.com,force-remote-dns
-DOMAIN-SUFFIX,fonts.gstatic.com
-DOMAIN-SUFFIX,googleapis.com,force-remote-dns
-DOMAIN-SUFFIX,googleapps.com,force-remote-dns
-DOMAIN-SUFFIX,googledrive.com,force-remote-dns
-DOMAIN-SUFFIX,googlearth.com,force-remote-dns
-DOMAIN-SUFFIX,googlemail.com,force-remote-dns
-DOMAIN-SUFFIX,googlemaps.com,force-remote-dns
-DOMAIN-SUFFIX,googlevideo.com,force-remote-dns
 ## H
 DOMAIN-SUFFIX,howtoforge.com
 DOMAIN-SUFFIX,hootsuite.com
@@ -196,7 +164,6 @@ DOMAIN-SUFFIX,kobobooks.com
 ## I
 DOMAIN-SUFFIX,icoco.com
 DOMAIN-SUFFIX,icons8.com
-DOMAIN-SUFFIX,igoogle.com,force-remote-dns
 DOMAIN-SUFFIX,imageshack.us
 DOMAIN-SUFFIX,img.ly
 DOMAIN-SUFFIX,imgur.com
@@ -240,12 +207,11 @@ DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,macid.co
 DOMAIN-SUFFIX,macromedia.com
 DOMAIN-SUFFIX,macrumors.com
-DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,maplestage.com
 DOMAIN-SUFFIX,marketwatch.com
 DOMAIN-SUFFIX,mashable.com
 DOMAIN-SUFFIX,messenger.com
-DOMAIN-SUFFIX,material.io
+
 DOMAIN-SUFFIX,mathjax.org
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.co.nz
@@ -360,7 +326,6 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,staticflickr.com
-DOMAIN-SUFFIX,steamcommunity.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
@@ -500,8 +465,6 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,withgoogle.com,whatsapp,force-remote-dns
-DOMAIN-SUFFIX,withyoutube.com,whatsapp,force-remote-dns
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,westpoint.edu
 DOMAIN-SUFFIX,westca.com
@@ -511,13 +474,10 @@ DOMAIN-SUFFIX,websnapr.com
 DOMAIN-SUFFIX,weblagu.com
 DOMAIN-SUFFIX,webfreer.com
 DOMAIN-SUFFIX,web2project.net
-DOMAIN-SUFFIX,webmproject.org
 DOMAIN-SUFFIX,webtype.com
 DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,w3schools.com
 DOMAIN-SUFFIX,winudf.com
-DOMAIN-SUFFIX,waveprotocol.org
-DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,w.org
 DOMAIN-KEYWORD,whatsapp,force-remote-dns
 ## X
@@ -531,18 +491,11 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yourlisten.com
 DOMAIN-SUFFIX,youmaker.com
 DOMAIN-SUFFIX,yorkbbs.ca
-DOMAIN-SUFFIX,youtu.be,force-remote-dns
-DOMAIN-SUFFIX,youtube.com,force-remote-dns
-DOMAIN-SUFFIX,youtubeeducation.com,force-remote-dns
-DOMAIN-SUFFIX,youtubegaming.com,force-remote-dns
-DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 DOMAIN-SUFFIX,onlineyoutube.com
 DOMAIN-SUFFIX,yidio.com
 DOMAIN-SUFFIX,yimg.com
 DOMAIN-SUFFIX,ying.com
 DOMAIN-SUFFIX,yoyo.org
-DOMAIN-SUFFIX,ytimg.com,force-remote-dns
-DOMAIN-SUFFIX,yt.be,force-remote-dns
 DOMAIN-SUFFIX,yes-news.com
 DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yeeyi.com
