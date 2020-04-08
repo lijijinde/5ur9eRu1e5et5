@@ -1,0 +1,9 @@
+# Update Notifications
+DOMAIN-SUFFIX,rogueamoeba.net,Update,notification-text="AudioHijack Update"
+DOMAIN-SUFFIX,macbartender.com,Update,notification-text="Bartender Update"
+DOMAIN,updates.binarynights.com,Update,notification-text="ForkLift Update"
+DOMAIN,osxfuse.github.io,Update,notification-text="Fuse for MacOS Update"
+DOMAIN-SUFFIX,bahoom.com,Update,notification-text="HyperDock Update"
+DOMAIN-SUFFIX,iina.io,Update,notification-text="IINA Update"
+DOMAIN,sw-update.obdev.at,Update,notification-text="LittleSnitch Update"
+DOMAIN-SUFFIX,my.paragon-software.com,Update,notification-text="NTFS for Mac Update"
