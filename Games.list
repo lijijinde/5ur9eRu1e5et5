@@ -1,0 +1,11 @@
+# Steam
+DOMAIN-SUFFIX,steamcommunity.com,PROXY
+DOMAIN-SUFFIX,steamstatic.com,PROXY
+DOMAIN-SUFFIX,store.steampowered.com,Games
+# Blizzard
+USER-AGENT,hearthstone*,Games
+DOMAIN,cdp.cloud.unity3d.com,Games
+USER-AGENT,Blizzard*,Games
+DOMAIN-SUFFIX,battle.net,Games
+DOMAIN-SUFFIX,battlenet.com,Games
+DOMAIN-SUFFIX,blizzard.com,Games
