@@ -4,7 +4,6 @@ DOMAIN-KEYWORD,youtube.com,force-remote-dns
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,admin.recaptcha.net
 DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,androidify.com
 DOMAIN-SUFFIX,appspot.com,force-remote-dns
 DOMAIN-SUFFIX,blogger.com,force-remote-dns
 DOMAIN-SUFFIX,dialogflow.com
@@ -26,8 +25,6 @@ DOMAIN-SUFFIX,gmail.com,,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,goolge.com,force-remote-dns
-DOMAIN-SUFFIX,gooogle.com,force-remote-dns
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com,force-remote-dns
 DOMAIN-SUFFIX,gvt1.com,force-remote-dns
@@ -51,7 +48,5 @@ DOMAIN-SUFFIX,webrtc.org
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,widevine.com
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,youtu.be,force-remote-dns
-DOMAIN-SUFFIX,yt.be,force-remote-dns
 DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,force-remote-dns
