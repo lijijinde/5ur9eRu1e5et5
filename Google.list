@@ -21,7 +21,7 @@ DOMAIN-SUFFIX,firebaseio.com
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org,force-remote-dns
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com,,force-remote-dns
+DOMAIN-SUFFIX,gmail.com,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
