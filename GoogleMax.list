@@ -25,7 +25,10 @@ DOMAIN-SUFFIX,g.co,force-remote-dns
 DOMAIN-SUFFIX,getmdl.io
 DOMAIN-SUFFIX,getoutline.org,force-remote-dns
 DOMAIN-SUFFIX,ggpht.com
-DOMAIN-SUFFIX,gmail.com,,force-remote-dns
+DOMAIN-SUFFIX,gmail.com,force-remote-dns
+DOMAIN,pop.gmail.com
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
