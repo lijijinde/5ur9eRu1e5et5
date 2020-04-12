@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,gmail.com,force-remote-dns
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,godoc.org
 DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,googleapis.com,force-remote-dns
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,gvt0.com,force-remote-dns
 DOMAIN-SUFFIX,gvt1.com,force-remote-dns
