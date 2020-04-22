@@ -257,8 +257,10 @@ DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,puffinbrowser.com
 DOMAIN-SUFFIX,pubu.com.tw
 DOMAIN-SUFFIX,proxfree.com
-DOMAIN-SUFFIX,pinimg.com
 DOMAIN-SUFFIX,pinboard.in
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+USER-AGENT,Pinterest*
 DOMAIN-KEYWORD,pinterest
 DOMAIN-SUFFIX,pinterest.com
 DOMAIN-SUFFIX,pixelmator.com
