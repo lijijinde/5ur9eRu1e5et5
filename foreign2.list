@@ -500,8 +500,8 @@ DOMAIN-SUFFIX,wikileaks.org
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,withgoogle.com,whatsapp,force-remote-dns
-DOMAIN-SUFFIX,withyoutube.com,whatsapp,force-remote-dns
+DOMAIN-SUFFIX,withgoogle.com,force-remote-dns
+DOMAIN-SUFFIX,withyoutube.com,force-remote-dns
 DOMAIN-SUFFIX,wire.com
 DOMAIN-SUFFIX,westpoint.edu
 DOMAIN-SUFFIX,westca.com
