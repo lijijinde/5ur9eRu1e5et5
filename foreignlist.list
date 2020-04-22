@@ -336,6 +336,7 @@ DOMAIN-SUFFIX,talk853.com
 DOMAIN-SUFFIX,tabtter.jp
 DOMAIN-SUFFIX,tapbots.com
 DOMAIN-SUFFIX,tapbots.net
+DOMAIN-SUFFIX,t.co,force-remote-dns
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,techcrunch.com
 DOMAIN-SUFFIX,techsmith.com
@@ -353,13 +354,13 @@ DOMAIN-SUFFIX,twitterfeed.com,force-remote-dns
 DOMAIN-SUFFIX,twitter4j.org,force-remote-dns
 DOMAIN-SUFFIX,twttr.com,force-remote-dns
 DOMAIN-SUFFIX,twitter.com,force-remote-dns
-DOMAIN-SUFFIX,t.co,force-remote-dns
 DOMAIN-SUFFIX,tv.com
 DOMAIN-SUFFIX,txmblr.com,force-remote-dns
 DOMAIN-SUFFIX,tumblr.com,force-remote-dns
 DOMAIN-SUFFIX,tmblr.co,force-remote-dns
 DOMAIN-SUFFIX,tumblr.co,force-remote-dns
 DOMAIN-SUFFIX,tumblr.com,force-remote-dns
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tt-rss.org
 DOMAIN-SUFFIX,trulyergonomic.com
@@ -388,6 +389,7 @@ DOMAIN-SUFFIX,theverge.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,toggleable.com
 DOMAIN-SUFFIX,todoist.com
+DOMAIN-SUFFIX,trakt.tv
 DOMAIN-SUFFIX,trello.com
 DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tweetdeck.com
