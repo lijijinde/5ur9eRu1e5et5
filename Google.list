@@ -1,4 +1,5 @@
 DOMAIN-KEYWORD,blogspot,force-remote-dns
+DOMAIN-KEYWORD,gmail,force-remote-dns
 DOMAIN-KEYWORD,google,force-remote-dns
 DOMAIN-KEYWORD,youtube.com,force-remote-dns
 DOMAIN-SUFFIX,abc.xyz
