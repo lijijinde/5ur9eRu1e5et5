@@ -55,8 +55,6 @@ DOMAIN-SUFFIX,bloglovin.com
 DOMAIN-SUFFIX,blog.com
 DOMAIN-SUFFIX,blogcdn.com
 DOMAIN-SUFFIX,blogsmithmedia.com
-DOMAIN-SUFFIX,blogspot.com,force-remote-dns
-DOMAIN-SUFFIX,blogspot.hk
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
 ## C
