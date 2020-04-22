@@ -55,3 +55,5 @@ DOMAIN-SUFFIX,youtubeeducation.com,force-remote-dns
 DOMAIN-SUFFIX,youtubegaming.com,force-remote-dns
 DOMAIN-SUFFIX,ytimg.com,force-remote-dns
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com,force-remote-dns
+USER-AGENT,YouTube*,force-remote-dns
+USER-AGENT,com.google.ios.youtube*,force-remote-dns
