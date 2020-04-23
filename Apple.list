@@ -5,9 +5,7 @@ DOMAIN,books.itunes.apple.com,Apple
 DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,Apple
 DOMAIN,cdn.apple-cloudkit.com,Apple
 DOMAIN-SUFFIX,hls-amt.itunes.apple.com,Apple
-# > AppleNon-ChinaCDN
 DOMAIN-SUFFIX ,hls.itunes.apple.com,Apple
-# > AppleNewsMapTOMTOMVersion
 DOMAIN,gspe1-ssl.ls.apple.com,Apple
 PROCESS-NAME,News,Apple
 USER-AGENT,AppleNews*,Apple
@@ -17,7 +15,6 @@ DOMAIN,news-client.apple.com,Apple
 DOMAIN,news-edge.apple.com,Apple
 DOMAIN,news-events.apple.com,Apple
 DOMAIN,apple.comscoreresearch.com,Apple
-# > Apple_CDN
 DOMAIN,aod.itunes.apple.com,Apple
 DOMAIN,api.smoot.apple.cn,Apple
 DOMAIN,music.apple.com,Apple
@@ -35,24 +32,24 @@ DOMAIN,updates-http.cdn-apple.com,Apple
 DOMAIN-SUFFIX,ls.apple.com,Apple
 DOMAIN,gs-loc-cn.apple.com,Apple
 DOMAIN,www-cdn.icloud.com.akadns.net,Apple
-DOMAIN-SUFFIX,aaplimg.com,AppleAPI
-DOMAIN-SUFFIX,apple.co,AppleAPI
-DOMAIN-SUFFIX,apple.com,AppleAPI
-DOMAIN-SUFFIX,apple-cloudkit.com,AppleAPI
-DOMAIN-SUFFIX,appsto.re,AppleAPI
-DOMAIN-SUFFIX,cdn-apple.com,AppleAPI
-DOMAIN-SUFFIX,icloud.com,AppleAPI
-DOMAIN-SUFFIX,icloud-content.com,AppleAPI
-DOMAIN-SUFFIX,itunes.com,AppleAPI
-DOMAIN-SUFFIX,me.com,AppleAPI
-IP-CIDR,17.0.0.0/8,AppleAPI,no-resolve
-IP-CIDR,63.92.224.0/19,AppleAPI,no-resolve
-IP-CIDR,65.199.22.0/23,AppleAPI,no-resolve
-IP-CIDR,139.178.128.0/18,AppleAPI,no-resolve
-IP-CIDR,144.178.0.0/19,AppleAPI,no-resolve
-IP-CIDR,144.178.36.0/22,AppleAPI,no-resolve
-IP-CIDR,144.178.48.0/20,AppleAPI,no-resolve
-IP-CIDR,192.35.50.0/24,AppleAPI,no-resolve
-IP-CIDR,198.183.17.0/24,AppleAPI,no-resolve
-IP-CIDR,205.180.175.0/24,AppleAPI,no-resolve
-DOMAIN-SUFFIX,apple.news,AppleAPI
+DOMAIN-SUFFIX,aaplimg.com,Apple
+DOMAIN-SUFFIX,apple.co,Apple
+DOMAIN-SUFFIX,apple.com,Apple
+DOMAIN-SUFFIX,apple-cloudkit.com,Apple
+DOMAIN-SUFFIX,appsto.re,Apple
+DOMAIN-SUFFIX,cdn-apple.com,Apple
+DOMAIN-SUFFIX,icloud.com,Apple
+DOMAIN-SUFFIX,icloud-content.com,Apple
+DOMAIN-SUFFIX,itunes.com,Apple
+DOMAIN-SUFFIX,me.com,Apple
+IP-CIDR,17.0.0.0/8,Apple,no-resolve
+IP-CIDR,63.92.224.0/19,Apple,no-resolve
+IP-CIDR,65.199.22.0/23,Apple,no-resolve
+IP-CIDR,139.178.128.0/18,Apple,no-resolve
+IP-CIDR,144.178.0.0/19,Apple,no-resolve
+IP-CIDR,144.178.36.0/22,Apple,no-resolve
+IP-CIDR,144.178.48.0/20,Apple,no-resolve
+IP-CIDR,192.35.50.0/24,Apple,no-resolve
+IP-CIDR,198.183.17.0/24,Apple,no-resolve
+IP-CIDR,205.180.175.0/24,Apple,no-resolve
+DOMAIN-SUFFIX,apple.news,Apple
