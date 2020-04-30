@@ -401,6 +401,7 @@ USER-AGENT,TikTok*
 DOMAIN-KEYWORD,-tiktokcdn-com
 DOMAIN-SUFFIX,muscdn.com
 DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktok.com
 DOMAIN-SUFFIX,tiktokv.com
 DOMAIN-SUFFIX,tiktokcdn.com
 DOMAIN,api-h2.tiktokv.com
