@@ -397,6 +397,15 @@ DOMAIN-SUFFIX,trustasiassl.com
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,tweetmarker.net
 DOMAIN-SUFFIX,typekit.net
+USER-AGENT,TikTok*
+DOMAIN-KEYWORD,-tiktokcdn-com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tiktokv.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN,api-h2.tiktokv.com
+DOMAIN,api2-16-h2.musical.ly
+DOMAIN,api2-19-h2.musical.ly
 ## U
 DOMAIN-SUFFIX,ustream.tv
 DOMAIN-SUFFIX,usma.edu
