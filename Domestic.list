@@ -4,6 +4,8 @@ USER-AGENT,QQ*
 USER-AGENT,JDLife*
 USER-AGENT,TIM*
 USER-AGENT,MicroMessenger*
+USER-AGENT,MicroMessenger Client*
+USER-AGENT,WeChat*
 USER-AGENT,WeChat*
 PROCESS-NAME,WeChat
 IP-CIDR,182.254.116.0/24
@@ -14,6 +16,7 @@ DOMAIN,ip.istatmenus.app
 DOMAIN,sms.imagetasks.com
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,aliyun.com
 DOMAIN-SUFFIX,alipay.com
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alibabausercontent.com
@@ -43,6 +46,8 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,126.com
+DOMAIN-SUFFIX,127.net
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,360.cn
 DOMAIN-SUFFIX,360.com
@@ -57,7 +62,8 @@ DOMAIN-SUFFIX,air-matters.com
 DOMAIN-SUFFIX,air-matters.io
 DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,akadns.net
-DOMAIN-SUFFIX,aliyun.com
+DOMAIN-SUFFIX,air-matters.com
+DOMAIN-SUFFIX,aixifan.com
 DOMAIN-SUFFIX,amap.com
 DOMAIN-SUFFIX,apache.org
 DOMAIN-SUFFIX,appshike.com
