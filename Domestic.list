@@ -1,6 +1,10 @@
 DOMAIN-KEYWORD,-cn
 DOMAIN-SUFFIX,cn
-#Alibaba
+USER-AGENT,QQ*,DIRECT
+USER-AGENT,JDLife*,DIRECT
+USER-AGENT,TIM*,DIRECT
+USER-AGENT,WeChat*,DIRECT
+PROCESS-NAME,WeChat,DIRECT
 DOMAIN-SUFFIX,autonavi.com
 DOMAIN-SUFFIX,dingtalk.com
 DOMAIN-SUFFIX,alipay.com
@@ -15,7 +19,6 @@ DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 USER-AGENT,%E4%BC%98%E9%85%B7*
-#Bilibili
 USER-AGENT,bili*
 USER-AGENT,Bilibili*
 DOMAIN-SUFFIX,acg.tv
@@ -30,7 +33,7 @@ DOMAIN-SUFFIX,bilivideo.com
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,hdslb.net
 DOMAIN-SUFFIX,im9.com
-#
+DOMAIN-SUFFIX,163yun.com
 DOMAIN-SUFFIX,12306.com
 DOMAIN-SUFFIX,126.net
 DOMAIN-SUFFIX,163.com
@@ -105,7 +108,6 @@ DOMAIN-SUFFIX,hxcdn.net
 DOMAIN-SUFFIX,iciba.com
 DOMAIN-SUFFIX,ifeng.com
 DOMAIN-SUFFIX,ifengimg.com
-DOMAIN-SUFFIX,images-amazon.com
 DOMAIN-SUFFIX,ipip.net
 DOMAIN-SUFFIX,iqiyi.com
 DOMAIN-SUFFIX,ithome.com
@@ -230,18 +232,8 @@ DOMAIN-SUFFIX,ykimg.com
 DOMAIN-SUFFIX,youdao.com
 DOMAIN-SUFFIX,youku.com
 DOMAIN-SUFFIX,yunjiasu-cdn.net
-DOMAIN-SUFFIX,zealer.com,DIREC
 DOMAIN-SUFFIX,zgslb.net
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhuihd.com
 DOMAIN-SUFFIX,zhimg.com
-USER-AGENT,YYeTs*
-DOMAIN-SUFFIX,zimuzu.io
-DOMAIN-SUFFIX,zimuzu.tv
-DOMAIN-SUFFIX,zmz2019.com
-DOMAIN-SUFFIX,zmzapi.com
-DOMAIN-SUFFIX,zmzapi.net
-DOMAIN-SUFFIX,zmzfile.com
-DOMAIN,images-cn.ssl-images-amazon.com
-IP-CIDR,1.255.62.0/24,no-resolve
