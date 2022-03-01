@@ -45,6 +45,7 @@ DOMAIN-SUFFIX,bitbucket.org
 DOMAIN-SUFFIX,bitcointalk.org
 DOMAIN-SUFFIX,bit.do
 DOMAIN-SUFFIX,bit.ly
+DOMAIN-KEYWORD,bitdefender
 DOMAIN-SUFFIX,bitshare.com
 DOMAIN-SUFFIX,bigsound.org
 DOMAIN-SUFFIX,bjango.com
@@ -131,6 +132,7 @@ DOMAIN-SUFFIX,flipboard.com
 DOMAIN-SUFFIX,flipkart.com
 DOMAIN-SUFFIX,flitto.com
 DOMAIN-SUFFIX,foofle.com
+DOMAIN-SUFFIX,freemacsoft.net
 DOMAIN-SUFFIX,fzlm.net
 ## G
 DOMAIN-SUFFIX,gabia.net
@@ -175,6 +177,7 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 DOMAIN-SUFFIX,instapaper.com
 DOMAIN-KEYWORD,instagram
+USER-AGENT,Instagram*,PROXY
 DOMAIN-SUFFIX,ipn.li
 DOMAIN-SUFFIX,is.gd
 DOMAIN-SUFFIX,issuu.com
@@ -281,6 +284,7 @@ DOMAIN-SUFFIX,pushwoosh.com
 ## Q
 DOMAIN-SUFFIX,quora.com
 ## R
+DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,reuters.com
 DOMAIN-SUFFIX,redd.it
 DOMAIN-SUFFIX,reddit.com
@@ -329,6 +333,8 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-SUFFIX,sstatic.net
 DOMAIN-SUFFIX,st.luluku.pw
 DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,steamcommunity.com
+DOMAIN-SUFFIX,steamstatic.com
 DOMAIN-SUFFIX,symauth.com
 DOMAIN-SUFFIX,symcb.com
 DOMAIN-SUFFIX,symcd.com
@@ -515,6 +521,7 @@ DOMAIN-SUFFIX,yesasia.com
 DOMAIN-SUFFIX,yeeyi.com
 DOMAIN-SUFFIX,yasni.co.uk
 DOMAIN-SUFFIX,yastatic.net
+USER-AGENT,YouTube*,PROXY
 ## Z
 DOMAIN-SUFFIX,zacebook.com
 DOMAIN-SUFFIX,zalmos.com
