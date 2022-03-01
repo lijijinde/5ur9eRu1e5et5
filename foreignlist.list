@@ -32,6 +32,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,awsstatic.com
 DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azurewebsites.net
+USER-AGENT,Argo*
 ## B
 DOMAIN-SUFFIX,bandwagonhost.com
 DOMAIN-SUFFIX,bbtoystore.com
@@ -309,6 +310,7 @@ DOMAIN-SUFFIX,starp2p.com
 DOMAIN-SUFFIX,spike.com
 DOMAIN-SUFFIX,sowers.org.hk
 DOMAIN-SUFFIX,soundcloud.com
+USER-AGENT,SoundCloud*
 DOMAIN-SUFFIX,sockslist.net
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,snapchat.com
